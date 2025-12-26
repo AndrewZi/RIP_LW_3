@@ -4,19 +4,19 @@
 
 ЛР 2 (проект без оптимизации)
 
-![Memory](Screens/before_memory.jpg)
+![Memory](Screens/before_memory.png)
 
-![Method profiling](Screens/before_method-profiling.jpg)
+![Method profiling](Screens/before_method-profiling.png)
 
-![Garbage collection](Screens/before_garbage-collection.jpg)
+![Garbage collection](Screens/before_garbage-collection.png)
 
 ЛР 3 (проект с оптимизацией)
 
-![Memory](Screens/after_memory.jpg)
+![Memory](Screens/after_memory.png)
 
-![Method profiling](Screens/after_method-profiling.jpg)
+![Method profiling](Screens/after_method-profiling.png)
 
-![Garbage collection](Screens/after_garbage-collection.jpg)
+![Garbage collection](Screens/after_garbage-collection.png)
 
 Производительность улучшилась.
 
