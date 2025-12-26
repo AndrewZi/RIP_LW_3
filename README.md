@@ -1,6 +1,22 @@
 # Sensor Reactive System
 
-Результаты сравнений профилирования проектов ЛР 2 (before) и ЛР 3 (after) в папке Screens.
+Результаты профилирования:
+
+ЛР 2 (проект без оптимизации)
+
+![Memory](Screens/before_memory.jpg)
+
+![Method profiling](Screens/before_method-profiling.jpg)
+
+![Garbage collection](Screens/before_garbage-collection.jpg)
+
+ЛР 3 (проект с оптимизацией)
+
+![Memory](Screens/after_memory.jpg)
+
+![Method profiling](Screens/after_method-profiling.jpg)
+
+![Garbage collection](Screens/after_garbage-collection.jpg)
 
 Производительность улучшилась.
 
